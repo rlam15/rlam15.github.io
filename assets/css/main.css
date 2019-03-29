@@ -83,7 +83,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #fff;
+		background: #ADD8E6; <!-- Color loading into the webpage-->
 		overflow: hidden;
 	}
 
@@ -214,7 +214,7 @@ input, select, textarea {
 		transform: translate3d(0,0,0);
 	/* Set your background with this */
 
-		background: #348cb2 url("images/bg.jpg") bottom left;
+		background: #278fbc url("images/bg.jpg") bottom left;
 		background-repeat: repeat-x;
 		height: 100%;
 		left: 0;
@@ -365,14 +365,14 @@ input, select, textarea {
 	#main .avatar {
 		position: relative;
 		display: block;
-		margin-bottom: 1.5em;
+		margin-bottom: 1em;
 	}
 
-		#main .avatar img {
+		#main .avatar img { 
 			display: block;
 			margin: 0 auto;
 			border-radius: 100%;
-			box-shadow: 0 0 0 1.5em #ffffff;
+			box-shadow: 0 0 0 0.7em #ffffff;
 		}
 
 		@media screen and (max-width: 480px) {
@@ -569,9 +569,9 @@ input, select, textarea {
 	}
 
 		#header h1 {
-			font-size: 4.35em;
+			font-size: 4.5em;
 			font-weight: 900;
-			letter-spacing: -0.035em;
+			letter-spacing: -0.04em;
 			line-height: 1em;
 		}
 
@@ -916,7 +916,7 @@ input, select, textarea {
 			}
 
 			body, input, select, textarea {
-				font-size: 11pt;
+				font-size: 15pt;
 			}
 
 		/* BG */
