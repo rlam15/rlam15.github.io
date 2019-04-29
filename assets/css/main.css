@@ -372,7 +372,7 @@ input, select, textarea {
 			display: block;
 			margin: 0 auto;
 			border-radius: 100%;
-			box-shadow: 0 0 0 0.7em #ffffff;
+			box-shadow: 0 0 0 0.2em #ffffff;
 		}
 
 		@media screen and (max-width: 480px) {
